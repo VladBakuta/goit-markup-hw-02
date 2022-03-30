@@ -1,0 +1,14 @@
+.site-nav {
+  color: #18a0fb;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: red;
+}
+ul {
+  list-style: none;
+}
+/* Footer */
+.footer-text {
+  background-color: #2f303a;
+}
